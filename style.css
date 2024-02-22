@@ -29,7 +29,7 @@ body {
     color: aquamarine;
 }
 
-.footer-copyright{
+.footer--git copyright{
     font-size: 21px;
     color: gray;
     text-align: right;
